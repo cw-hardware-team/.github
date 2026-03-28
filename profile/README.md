@@ -4,11 +4,9 @@
 
 ***Alleged POS and Inventory System (APOSIS)*** is a system developed for use of CW Hardware in their physical stores and warehouse.
 
-Choy's Goons comprise majority of the members from [Team Kotl](https://github.com/team-kotl)
+Choy's Goons comprise majority of the members from [Team Kotl](https://github.com/team-kotl).
 
-#### Tech Stack
-
----
+### Tech Stack
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
