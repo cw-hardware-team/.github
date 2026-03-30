@@ -1,10 +1,10 @@
-## Ni Hao 👋
+## 你好 👋
 
-**Choy's Goons is a group formed for CW Hardware APOSIS project.**
+**This is an org formed for the CW Hardware APOSIS project.**
 
 ***Alleged POS and Inventory System (APOSIS)*** is a system developed for use of CW Hardware in their physical stores and warehouse.
 
-Choy's Goons comprise majority of the members from [Team Kotl](https://github.com/team-kotl).
+This project's team comprise majority of the members from [Team Kotl](https://github.com/team-kotl).
 
 ### Tech Stack
 
